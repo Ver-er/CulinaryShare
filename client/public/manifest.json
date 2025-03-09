@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Culinary Share",
+  "name": "Culinary Share - Recipe Sharing Platform",
   "icons": [
     {
       "src": "favicon.ico",
