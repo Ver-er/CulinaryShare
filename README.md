@@ -1,6 +1,6 @@
 # Culinary Share - Recipe Sharing Platform
 
-![Culinary Share Logo](https://img.icons8.com/color/96/000000/cooking-book.png)
+![Culinary Share Logo](client/public/logo192.png)
 
 Culinary Share is a full-stack web application that allows users to discover, create, and save recipes. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), this platform provides a seamless experience for cooking enthusiasts to share their culinary creations.
 
